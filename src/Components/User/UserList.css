@@ -1,0 +1,31 @@
+.user-list {
+  list-style: none;
+  padding: 0;
+}
+
+.user-item {
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: bisque;
+}
+
+.user-item h3 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: bisque;
+}
+
+.user-item p {
+  margin: 10px 0;
+  background-color: bisque;
+}
+
+.user-item button {
+  padding: 5px 10px;
+  background-color: #e53935;
+  color: white;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+}
